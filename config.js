@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['6285237596750', 'DityaAstawa', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6285237596750']
+global.prems = ['6285237596750']
+global.nomorbot = '6285792429140'
+global.nameown = 'DityaAstawa'
+global.nomorown = '6285237596750'
+global.nomorown1 = '6285237596750'
+global.nomorown2 = '6285237596750'
+global.nomorwa = '085237596750'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,49 +74,49 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.gcname = 'Dityabotz MD'//nama group kalian
+global.author = 'DityaAstawa' //ganti aja cuyyy
+global.namebot = '​Dityabotz-Md' //nama bot luh
+global.wm = '© Dityabotz-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'Dityabotz-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'DityaAstawa' //ganti ajaa
+global.wm3 = 'Ditya Botz by DityaAstawa' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `Dityabotz-Md | DityaAstawa` //ganti aja
+global.stickpack = 'Ditya-Astawa' //ganti 
+global.stickauth = `© Dityabotz-Md` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Ditya Astawa' //ganti 
+global.nameown2 = 'DityaAstawa' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
-global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
+global.sig = 'https://instagram.com/q.c.ditya' //ganti jadi ig mu
+global.sgh = 'https://github.com/Dityarunz' //github
+global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP' //group whatsapp
+global.gcwangsaf = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP' //Group wa juga 
+global.fakeyt = 'https://youtube.com/@dityaastawa6595' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.snh = 'https://youtube.com/@dityaastawa6595' //yt klo punya 
+global.wame = 'https://api.whatsapp.com/send?phone=+6285237596750' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
-global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pdana = '085792429140' //Isi aja klo punya 
+global.povo = '085792429140' //Isi Aja klo punya 
+global.pgopay = '085792429140' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
+global.ppulsa = '085792429140' //Isi aja klo punya 
+global.ppulsa2 = '085792429140' //Isi aja klo punya 
+global.psaweria = 'https://telegra.ph/file/201083def8c35d8534ada.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
 
@@ -160,8 +160,8 @@ global.md = '_In progress, please wait..._'
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
-global.syt = 'https://youtube.com/@Putra_Modz_' //youtube
-global.sytv = 'https://youtu.be/7JDmbvzJM1c'//link video yt
+global.syt = 'https://youtube.com/@dityaastawa6595' //youtube
+global.sytv = 'https://youtu.be/jmvWeA3PXQs'//link video yt
 global.packname = wm
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -559,10 +559,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/q.c.ditya"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
-global.ultahowner = 'Febuari 02 2023' //ultah luh 😭
+global.phn = '0852 3759-6750'
+global.ultahowner = 'Mei 05 2023' //ultah luh 😭
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
